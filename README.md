@@ -1,2 +1,3 @@
 # food-guide-with-chatgpt
-Food Guide with ChatGPT
+
+美食推薦聊天機器人
